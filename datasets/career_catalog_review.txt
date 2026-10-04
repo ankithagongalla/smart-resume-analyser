@@ -1,0 +1,469 @@
+
+===== AI & Machine Learning =====
+AI Consultant (Artificial Intelligence Consultant)
+AI Engineer (Artificial Intelligence Engineer)
+AI Security Specialist (Artificial Intelligence Security Specialist)
+AI Specialist (Artificial Intelligence Specialist)
+Artificial Intelligence Specialist
+Artificial Intelligence Specialist (AI Specialist)
+Computer Vision Engineer
+Computer Vision Scientist
+Machine Learning Data Scientist
+Machine Learning Engineer
+Machine Learning Research Scientist
+Machine Learning Scientist
+Machine Learning Software Engineer
+NLP Engineer (Natural Language Processing Engineer)
+Robotics Application Engineer
+Robotics Controls Engineer
+Robotics Engineer
+Robotics Engineering Intern
+Robotics Mechanic
+Robotics Researcher
+Robotics Specialist
+Robotics Systems Engineer
+Robotics Technologist
+
+===== Cloud & DevOps =====
+Cloud Architect
+Cloud Engineer
+Cloud Infrastructure Architect
+Cloud Infrastructure Engineer
+Cloud Network Engineer
+Cloud Operations Specialist
+Cloud Platform Engineer
+Cloud Security Architect
+Cloud Security Consultant
+Cloud Security Engineer
+Cloud Site Reliability Engineer
+Cloud Solution Architect
+Cloud Support Specialist
+Data Platform Engineer
+DevOps Architect (Development and Operations Architect)
+DevOps Developer (Development and Operations Developer)
+DevOps Engineer (Development Operations Engineer)
+Platform Engineer
+Site Reliability Engineer
+
+===== Cybersecurity =====
+Application Security Analyst
+Application Security Engineer
+Applications Security Analyst
+Automatic Data Processing Systems Security Specialist (ADP Systems Security)
+Automotive Security Engineer
+BISO (Business Information Security Officer)
+Computer Security Specialist
+Computer Systems Security Analyst
+Cyber All Source Analyst (Cybersecurity All Source Analyst)
+Cyber All-Source Analyst (Cybersecurity All-Source Analyst)
+Cyber Analyst (Cybersecurity Analyst)
+Cyber Defense Analyst
+Cyber Defense Analyst (Cybersecurity Defense Analyst)
+Cyber Defense Forensics Analyst
+Cyber Defense Forensics Analyst (Cybersecurity Defense Forensics Analyst)
+Cyber Defense Incident Responder
+Cyber Defense Infrastructure Support Specialist
+Cyber Digital Forensics
+Cyber Exploitation Analyst (Cybersecurity Exploitation Analyst)
+Cyber Information Security Analyst
+Cyber Intel Analyst (Cybersecurity Intelligence Analyst)
+Cyber Intelligence Analyst
+Cyber Intelligence Planner (Cybersecurity Intelligence Planner)
+Cyber Intelligence Specialist
+Cyber Intelligence Specialist (Cybersecurity Intelligence Specialist)
+Cyber Multi-Disciplined Language Analyst (Cybersecurity Multi-Disciplined Language Analyst)
+Cyber Operations Planner (Cyber Ops Planner)
+Cyber Operations Specialist
+Cyber Ops Specialist (Cybersecurity Operations Specialist)
+Cyber Security Analyst
+Cyber Security Engineer
+Cyber Security Specialist
+Cyber Security Tester
+Cyber Target Developer (Cybersecurity Target Developer)
+Cyber Target Network Analyst (Cybersecurity Target Network Analyst)
+Cyber Threat Analyst
+Cyber Threat Analyst (Cybersecurity Threat Analyst)
+Cyber Threat Hunter
+Cyber Threat Intelligence Analyst
+Cyber Threat Intelligence Analyst (Cybersecurity Threat Intelligence Analyst)
+Cybersecurity All-Source Analyst
+Cybersecurity All-Source Collection Manager
+Cybersecurity All-Source Collection Requirements Manager
+Cybersecurity Analyst
+Cybersecurity Analyst (Cyber Analyst)
+Cybersecurity Architect
+Cybersecurity Associate
+Cybersecurity Consultant
+Cybersecurity Engineer
+Cybersecurity Engineer (Cyber Engineer)
+Cybersecurity Exploitation Analyst
+Cybersecurity Hardware Engineer
+Cybersecurity Incident Response Analyst
+Cybersecurity Incident Response Analyst (Cyber Incident Response Analyst)
+Cybersecurity Multi-Disciplined Language Analyst
+Cybersecurity Partner Integration Planner
+Cybersecurity Project Manager
+Cybersecurity Research Scientist (Cyber Research Scientist)
+Cybersecurity Risk Analyst
+Cybersecurity Specialist
+Cybersecurity Specialist (Cyber Specialist)
+Cybersecurity Systems Engineer
+Cybersecurity Target Developer
+Cybersecurity Target Network Analyst
+Cybersecurity Threat Analyst
+Cybersecurity Threat Engineer
+Cybersecurity Warning Analyst
+Data Security Analyst
+Digital Cyber Analyst
+Digital Forensics Analyst
+Digital Forensics Examiner
+Digital Forensics Specialist
+Flight Security Specialist
+IS Security Engineer (Information Systems Security Engineer)
+IT Security Analyst (Information Technology Security Analyst)
+IT Security Engineer (Information Technology Security Engineer)
+IT Security Specialist (Information Technology Security Specialist)
+Incident Response Analyst
+Incident Response Manager
+Industrial Control Systems Cybersecurity Consultant
+Industrial Internet of Things Security Specialist (IIoT Security Specialist)
+Industrial Security Specialist
+Information Security Administrator (Information Security Admin)
+Information Security Analyst
+Information Security Architect
+Information Security Assessor
+Information Security Auditor
+Information Security Consultant
+Information Security Engineer
+Information Security Loss Prevention Engineer
+Information Security Management Engineer
+Information Security Officer
+Information Security Specialist
+Information Security System Engineer
+Information Systems Security Analyst
+Information Systems Security Specialist
+Information Technology Security Analyst (IT Security Analyst)
+Infrastructure Security Engineer
+Internet Security Specialist
+Internet of Things Security Specialist (IoT Security Specialist)
+Mobile Security Engineer
+Network Security Analyst
+Network Security Engineer
+Offensive Security Engineer
+Personal Security Specialist
+Personnel Security Specialist
+Physical Security Engineer
+Physical Security Specialist
+Product Security Engineer
+Security Analyst
+Security Engineer
+Security Specialist
+Social Security Specialist
+Supervisory Control and Data Acquisition Security Analyst (SCADA Security Analyst)
+System Security Analyst
+Systems Security Analyst
+Systems Security Engineer
+Systems Security Specialist
+Technical Security Specialist
+Transportation Security Specialist
+
+===== Data =====
+Analytical Statistician
+Applied Statistician
+Big Data Architect
+Big Data Engineer
+Biofuels Data Scientist
+Bioinformatics Data Analyst
+Biostatistician
+Business Data Analyst
+Business Intelligence Analyst (BI Analyst)
+Business Intelligence Consultant (BI Consultant)
+Business Intelligence Coordinator (BI Coordinator)
+Business Intelligence Engineer
+Business Intelligence Specialist (BI Specialist)
+Clinical Biostatistician
+Clinical Data Analyst
+Cyber Database Administrator (Cyber DBA)
+Data Analyst
+Data Analyst Specialist
+Data Architect
+Data Engineer
+Data Engineering Manager
+Data Warehouse Analyst
+Data Warehouse Architect
+Data Warehouse Developer
+Data Warehouse ETL Developer (Data Warehouse Extract, Transform, and Load Developer)
+Data Warehouse Engineer
+Data Warehouse Solution Architect
+Data Warehouse Specialist
+Database Administrator (DBA)
+Database Architect
+Engineering Data Analyst
+Enterprise Data Architect
+Environmental Statistician
+Fraud Data Analyst
+GIS Database Administrator (Geographic Information Systems Database Administrator)
+Health Data Analyst
+Health Information Management Data Analyst (HIM Data Analyst)
+Mathematical Statistician
+Mud Logging Data Analyst
+NGS Biostatistician (Next-Generation Sequencing)
+Research Biostatistician
+Research Data Analyst
+Research Statistician
+SQL DBA (Structured Query Language Database Administrator)
+Security Data Scientist
+Sports Statistician
+Statistical Data Analyst
+Statistician
+Supply Chain Data Analyst
+Survey Statistician
+Time Study Statistician
+
+===== Embedded & IoT =====
+Embedded Engineer
+Firmware Engineer
+
+===== Hardware & Systems =====
+Aerospace Systems Engineer
+Aircraft Systems Engineer
+Application Systems Architect
+Automotive Systems Engineer
+Avionics Systems Engineer
+Communications Systems Engineer
+Computer Hardware Designer
+Computer Hardware Developer
+Computer Hardware Engineer
+Computer Systems Analyst
+Computer Systems Architect
+Computer Systems Consultant
+Computer Systems Design Analyst
+Computer Systems Designer
+Computer Systems Hardware Analyst
+Computer Systems Information Director
+Computer Systems Security Administrator (Computer Systems Security Admin)
+Computer Systems Software Architect
+Computer Systems Specialist
+Control Systems Engineer
+Cyber Systems Engineer
+Digital Computer Systems Analyst
+Digital Hardware Engineer
+Electrical Hardware Engineer
+Electrical Systems Engineer
+Electronic Hardware Engineer
+Electronic Systems Engineer
+Embedded Hardware Engineer
+Energy Systems Engineer
+Enterprise Systems Engineer
+Fuel Cell Systems Engineer
+Guidance and Control Systems Engineer
+Hardware Engineer
+Hardware Systems Engineer
+Heating and Cooling Systems Engineer
+Intelligent Systems Engineer
+Laser Systems Engineer
+MEMS Engineer (Microelectromechanical Systems Engineer)
+Manufacturing Systems Engineer
+Microsystems Engineer
+Nanosystems Engineer
+Network Systems Engineer
+Networking Systems Engineer
+Optical Systems Engineer
+PC Systems Coordinator (Personal Computer Systems Coordinator)
+Photovoltaic Power Systems Engineer (PV Power Systems Engineer)
+Power Systems Engineer
+Powertrain Control Systems Engineer
+Quality Management Systems Engineer
+RF Systems Engineer (Radio Frequency Systems Engineer)
+RFID Systems Architect (Radio Frequency Identification Device Systems Architect)
+RFID Systems Engineer (Radio Frequency Identification Device Systems Engineer)
+Robotic Systems Engineer
+Software Systems Engineer
+Solar Energy Systems Engineer
+Solar PV Systems Engineer (Solar Photovoltaic Systems Engineer)
+Subsystems Engineer
+Systems Architect
+Systems Engineer
+Systems Engineering Analyst
+Systems Engineering Manager
+Telecommunications Systems Engineer
+Thermal Systems Engineer
+Water Systems Engineer
+
+===== Networking =====
+Communications Network Engineer
+Computer Network Analyst
+Computer Network Defense Analyst
+Computer Network Engineer
+Computer Network Specialist
+Computer Network Support Specialist
+Computer Network Technologist
+Computer Networker
+DWDM Optical Network Engineer (Dense Wavelength Division Multiplexing Optical Network Engineer)
+IT Network Engineer (Information Technology Network Engineer)
+Information Technology Network Specialist (IT Network Specialist)
+Internet Network Specialist
+LAN Administrator (Local Area Network Administrator)
+LAN Specialist (Local Area Network Specialist)
+LAN Support Specialist (Local Area Network Support Specialist)
+Network Administrator (Network Admin)
+Network Analyst
+Network Architect
+Network Engineer
+Network Specialist
+Network Support Administrator
+Network Support Coordinator
+Network Support Engineer
+Network Support Manager
+Network Support Specialist
+Optical Network Engineer
+PC Network Engineer (Personal Computer Network Engineer)
+Personal Computer Network Analyst
+Principal Network Engineer
+Target Network Analyst
+Telecommunications Network Engineer
+VoIP Network Engineer (Voice over Internet Protocol Network Engineer)
+WAN Administrator (Wide Area Network Administrator)
+WAN Engineer (Wide Area Network Engineer)
+WAN Support Specialist (Wide Area Network Support Specialist)
+Wireless Network Engineer
+
+===== Software Development =====
+.NET Programmer
+Analyst Programmer
+Application Developer
+Application Programmer
+Application Programmer Analyst
+Application Software Engineering IT Specialist (Application Software Engineering Information Technology Specialist)
+Applications Programmer
+Applications Software Engineering Information Technology Specialist (Applications Software Engineering IT Specialist)
+Automation Programmer
+Back End Software Engineer
+Bioinformatics Programmer
+Blockchain Software Developer
+Blockchain Software Engineer
+Business Application Developer
+Business Programmer
+CAD Programmer (Computer-Aided Design Programmer)
+CAM Programmer (Computer-Aided Manufacturing Programmer)
+CNC Lathe Programmer (Computer Numerical Control Lathe Programmer)
+CNC Lathe Programmer (Computer Numerically Controlled Lathe Programmer)
+CNC Machine Programmer (Computer Numerical Control Machine Programmer)
+CNC Mill Programmer (Computer Numerical Control Mill Programmer)
+CNC Milling Setup Programmer (Computer Numerical Control Milling Setup Programmer)
+CNC Milling and Turning Setup Programmer (Computer Numerical Control Milling and Turning Setup Programmer)
+CNC Process Control Programmer (Computer Numerical Control Process Control Programmer)
+CNC Programmer (Computer Numerical Control Programmer)
+CNC Programmer (Computer Numerically Controlled Programmer)
+CNC Tool Programmer (Computer Numerical Control Tool Programmer)
+CNC Turning Setup Programmer (Computer Numerical Control Turning Setup Programmer)
+COBOL Programmer (Common Business Oriented Language Programmer)
+Client Server Programmer
+Cloud Software Engineer
+Commercial Drone Software Developer
+Computer Application Developer
+Computer Game Programmer
+Computer Programmer
+Computer Programmer Analyst
+Computer Software Engineer
+Computer Systems Software Engineer
+Controls Programmer
+Cybersecurity Software Developer
+Cybersecurity Software Engineer
+DLT Software Engineer (Distributed Ledger Technology Software Engineer)
+Data Warehouse Programmer
+Database Programmer
+Drone Software Development Engineer
+E-Commerce Programmer (Electronic Commerce Programmer)
+Embedded Software Engineer
+Embedded Systems Software Developer
+Engineering Programmer
+Engineering and Scientific Programmer
+Front End Software Engineer
+Full Stack Software Engineer
+Game Programmer
+IT Programmer (Information Technology Programmer)
+Internet Application Developer
+Internet Programmer
+Java Developer
+Java Programmer
+JavaScript Developer
+Knowledge Management Application Developer
+Mainframe Programmer
+Mainframe Systems Programmer
+Metal Numerical Control Programmer
+Metal Numerical Tool Programmer
+Mobile Application Developer
+Numerical Control Programmer (NC Programmer)
+Numerical Control Tool Programmer (NC Tool Programmer)
+Numerical Tool Programmer
+Object-Oriented Programmer
+Operating System Programmer
+Plastic Numerical Tool Programmer
+Platform Software Engineer
+Process Control Programmer
+Programmable Logic Controller Programmer (PLC Programmer)
+Programmer
+Programmer Analyst
+Programming and Software Development Project Manager
+Radio Service Programmer
+Robot Programmer
+Scientific Programmer
+Scientific Programmer Analyst
+Sheet Metal CNC Programmer (Sheet Metal Computer Numerically Controlled Programmer)
+Software Application Developer
+Software Developer
+Software Development Director
+Software Development Engineer
+Software Development Project Manager
+Software Development Test Engineer
+Software Engineer
+Software Engineering Systems IT Specialist (Software Engineering Systems Information Technology Specialist)
+Software Programmer
+Statistical Programmer
+System Programmer
+Systems Programmer
+Systems Software Engineer
+Video Game Programmer
+Web Application Developer
+Web Applications Programmer
+Web Programmer
+Web Software Engineer
+Website Programmer
+
+===== UI/UX & Digital Design =====
+Interaction Designer
+Online User Experience Strategist
+UI Architect (User Interface Architect)
+UI Designer (User Interface Designer)
+UI Developer (User Interface Developer)
+UI Engineer (User Interface Engineer)
+UI Product Designer (User Interface Product Designer)
+UX Architect (User Experience Architect)
+UX Designer (User Experience Designer)
+UX Developer (User Experience Developer)
+UX Engineer (User Experience Engineer)
+UX Product Designer (User Experience Product Designer)
+UX Research Assistant (User Experience Research Assistant)
+UX Researcher (User Experience Researcher)
+UX Writer (User Experience Writer)
+User Experience Designer (UX Designer)
+User Interface Designer (UI Designer)
+User Interface and User Experience Architect (UI/UX Architect)
+User Interface and User Experience Designer (UI/UX Designer)
+Visual Interaction Designer
+Web User Experience Strategist
+
+===== Web Development =====
+Back End Developer
+Back-End Web Developer
+Blockchain Web Designer
+Front End Developer
+Front End Web Developer
+Full Stack Developer
+Full Stack Engineer
+Full Stack Web Developer
+PHP Web Developer (Personal Home Page Web Developer)
+Web Designer
+Web Developer
+Web Engineer
